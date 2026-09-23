@@ -110,7 +110,7 @@ Retrieval-Augmented Generation frameworks and local search engines for querying 
 - [txtai](https://github.com/neuml/txtai) - All-in-one embeddings database for semantic search, LLM orchestration, and language model workflows.
 - [Vanna](https://github.com/vanna-ai/vanna) - RAG framework for SQL generation. Train on your database schema and documentation.
 
-- [jev-tree](https://github.com/lee-lou2/jev-tree) - Self-hosted knowledge service (Rust + SQLite) where a model walks a taxonomy tree to find and file Q&A. Abstains when unsure. Demo: https://jev.openchamber.dev
+- [jev-tree](https://github.com/lee-lou2/jev-tree) - Self-hosted knowledge service (Rust + SQLite) where a model walks a taxonomy tree to find and file Q&A. Abstains when unsure.
 
 ## LLM Agents & Frameworks
 
